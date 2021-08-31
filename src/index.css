@@ -1,0 +1,19 @@
+  body {
+      background-image: linear-gradient(130deg,cyan, olive);
+      
+      
+ }  
+ /* .navbar {
+ background-image: linear-gradient(rgb(255, 0, 191), rgb(128, 128, 0));
+ } */
+ .slider img {
+height : 450px;
+object-fit: cover;
+ }
+ .card-image {
+height : 450px;
+object-fit: cover;
+ }
+ .pointer{
+      cursor:pointer
+ }
